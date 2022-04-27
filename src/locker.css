@@ -1,0 +1,26 @@
+.locker {
+}
+
+.numpad {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2vmin;
+  place-items: center;
+}
+
+.bubble {
+  border-radius: 50%;
+  height: 5vmin;
+  width: 5vmin;
+  border: 1px solid black;
+}
+
+.filled {
+  background-color: black;
+}
+
+.attempts-bar {
+  width: 80%;
+  justify-content: space-around;
+  padding: 5%;
+}

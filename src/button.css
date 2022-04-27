@@ -1,0 +1,11 @@
+.btn {
+  height: 20vmin;
+  width: 20vmin;
+  border-radius: 50%;
+  background-color: black;
+  color: antiquewhite;
+  font-size: 13vmin;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+}
